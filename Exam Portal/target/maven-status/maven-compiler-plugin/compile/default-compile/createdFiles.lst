@@ -1,0 +1,9 @@
+com\example\exam\model\Exam.class
+com\example\exam\model\ExamResult.class
+com\example\exam\config\MvcConfig.class
+com\example\exam\config\GlobalControllerAdvice.class
+com\example\exam\service\UserService.class
+com\example\exam\model\User.class
+com\example\exam\repository\UserRepository.class
+com\example\exam\model\ExamAnswer.class
+com\example\exam\model\Question.class
